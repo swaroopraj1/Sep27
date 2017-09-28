@@ -2,7 +2,7 @@
 // 		var name = "Swaroop";
 // 		alert("Name is: "+ name); // Displays Name is Swaroop
 // }
-// LetKeyword();
+// VarKeyword();
 // alert(state); // state is not defined
 
 function VarKeyword (number) {
